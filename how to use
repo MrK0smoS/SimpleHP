@@ -1,0 +1,8 @@
+The command works when vip is below 20 hp then you have to enter sm_hp and the plugin will add a second 20 hp to vip, the plugin is written in Polish
+By default, the vip flag is flag A, but you can convert the plug-in to any other flags ;)
+
+So to the point. the command to add hp is! hp, it adds it only when 2 conditions are met: the player has the admin reservation flag,
+and his hp is in the range from 1 to 20 if both conditions are met the plugin will set the player's hp to 40. Note! The plugin has no cooldown,
+so the player can use this command indefinitely.
+
+Read more about administrator flags here! https://wiki.alliedmods.net/Adding_Admins_(SourceMod)
